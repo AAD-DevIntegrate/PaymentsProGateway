@@ -1,0 +1,9 @@
+ pytest
+3
+  shell: /usr/bin/bash -e {0}
+4
+  env:
+5
+    pythonLocation: /opt/hostedtoolcache/Python/3.10.0/x64
+6
+    LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.10.0/x64/lib
