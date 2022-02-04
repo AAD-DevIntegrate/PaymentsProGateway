@@ -9,7 +9,7 @@
             "type": "python",
             "request": "attach",
             "connect": {
-                "host": "https://autoafterdark.com/get-it-4-less",
+                "host": "https://autoafterdark.com",
                 "port": 5678
             },
             "pathMappings": [
